@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <None Update="menu.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
+      <None Update="command.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
+<!--    <ItemGroup>-->
+<!--      <ProjectReference Include="..\CommonFunctionAndUtility\CommonFunctionAndUtility.csproj" />-->
+<!--    </ItemGroup>-->
+
+    <ItemGroup>
+      <Reference Include="CommonFunctionAndUtility, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\CommonFunctionAndUtility\bin\Debug\netcoreapp3.1\CommonFunctionAndUtility.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

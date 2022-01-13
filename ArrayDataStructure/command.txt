@@ -1,0 +1,8 @@
+﻿1.PrintReady
+2.PrintSum
+3.PrintSquareArray
+4.InsertAndPrintArray
+5.RemoveAndPrint
+6.PrintPrimeArray
+7.PrintFrequencyArray
+8.CheckLinearArray

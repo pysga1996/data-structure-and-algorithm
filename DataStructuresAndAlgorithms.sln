@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDataStructure", "ArrayDataStructure\ArrayDataStructure.csproj", "{449F0724-B802-41E1-B2C6-CBACFED10724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonFunctionAndUtility", "CommonFunctionAndUtility\CommonFunctionAndUtility.csproj", "{20D4CAF6-4891-48BD-9C6C-E39091E989C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{449F0724-B802-41E1-B2C6-CBACFED10724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449F0724-B802-41E1-B2C6-CBACFED10724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449F0724-B802-41E1-B2C6-CBACFED10724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449F0724-B802-41E1-B2C6-CBACFED10724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20D4CAF6-4891-48BD-9C6C-E39091E989C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D4CAF6-4891-48BD-9C6C-E39091E989C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D4CAF6-4891-48BD-9C6C-E39091E989C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D4CAF6-4891-48BD-9C6C-E39091E989C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

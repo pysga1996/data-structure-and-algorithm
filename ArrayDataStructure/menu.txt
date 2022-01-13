@@ -1,0 +1,9 @@
+﻿--- Array Data Structure ---
+1. Print "ready"
+2. Print sum
+3. Print square array
+4. Insert and print array
+5. Remove and print
+6. Print prime array
+7. Print frequency array
+8. Check an array is linear or not
